@@ -1,0 +1,24 @@
+﻿[
+  {
+    "id": "Ooghoogte",
+    "type": "Feature",
+    "properties": {
+      "description": "assets/textures/ooghoogte.jpg"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [5.790436, 52.005686]
+    }
+  },
+  {
+    "id": "Vogelperspectief",
+    "type": "Feature",
+    "properties": {
+      "description": "assets/textures/vogelperspectief.jpg"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [5.791296, 52.005845]
+    }
+  }
+]

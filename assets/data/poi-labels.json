@@ -1,0 +1,50 @@
+﻿[
+  {
+    "label": "Perrontunnel 1",
+    "description": "<h1>P&R-terrein</h1>\n <img src=\"assets/images/content/pr-terrein.jpg\" width=\"100%\" height=\"100%\"> \n <p>Het huidige P&R-terrein bij Station Wolfheze.</p>",
+    "coordinates": [
+      5.7921695266288635, 52.00453721742383
+    ],
+    "zoom": 16,
+    "situation": "current",
+    "className": "popup-blue",
+    "buttonClass": "popup-button",
+    "anchorPosition": "bottom-right"
+  },
+  {
+    "label": "Fietsenstalling",
+    "description": "<h1>Fietsenstalling</h1>\n <img src=\"assets/images/content/fietsenstalling.jpg\" width=\"100%\" height=\"100%\"> \n <p>Fietsenstalling bij het stationsgebouw.</p>",
+    "zoom": 17,
+    "coordinates": [
+      5.793789794259015, 52.005974124453964
+    ],
+    "situation": "current",
+    "className": "popup-red",
+    "buttonClass": "popup-button",
+    "anchorPosition": "top-left"
+  },
+  {
+    "label": "Stationsgebouw",
+    "description": "<h1>Stationsgebouw</h1>\n <img src=\"assets/images/content/stationsgebouw.jpg\" width=\"100%\" height=\"100%\"> \n <p>Het stationsgebouw van Wolfheze.</p>",
+    "zoom": 14,
+    "coordinates": [
+      5.790949262566059, 52.00576217577504
+    ],
+    "situation": "future",
+    "className": "popup-blue",
+    "buttonClass": "popup-button",
+    "anchorPosition": "bottom"
+  },
+  {
+    "label": "Zijperron",
+    "description": "<h1>Zijperron</h1>\n <img src=\"assets/images/content/zijperron.jpg\" width=\"100%\" height=\"100%\"> \n <p>De huidige perrons bij station Wolfheze.</p>",
+    "zoom": 15,
+    "coordinates": [
+      5.789749251853048, 52.007382934281424
+    ],
+    "situation": "future",
+    "className": "popup-blue",
+    "buttonClass": "popup-button",
+    "anchorPosition": "top-right"
+  }
+]
